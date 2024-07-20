@@ -1,6 +1,6 @@
 package bg.softuni.comments.service;
 
-import bg.softuni.comments.CommentMapper;
+import bg.softuni.comments.mapper.CommentMapper;
 import bg.softuni.comments.model.Comment;
 import bg.softuni.comments.model.dto.CommentDTO;
 import bg.softuni.comments.repository.CommentRepository;

@@ -1,4 +1,4 @@
-package bg.softuni.comments;
+package bg.softuni.comments.mapper;
 
 import bg.softuni.comments.model.Comment;
 import bg.softuni.comments.model.dto.CommentDTO;
